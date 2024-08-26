@@ -1,4 +1,4 @@
-# Jason's First CS193 Homework
+# Weichen Lyu's First CS193 Homework
 
 - I like CS193 because it helps with my coding skills.
 - Another reason I like CS193 is because of how active the TA's and fellow classmates are on Ed Discussion Forum.
